@@ -1,0 +1,37 @@
+
+body{
+    background-image: url("img/glaciar-perito-mor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+header div{
+    text-align: center;
+}
+
+footer div{
+    text-align: center;
+}
+
+footer span{
+    font-family: 'Caveat', cursive;  
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bg-contraste{
+    background-color: rgba(223, 244, 250, 0.5)
+}
+
+.salto {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.items {
+    font-style: italic;
+    font-weight: bold;
+}
+
+
